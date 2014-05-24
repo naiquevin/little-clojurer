@@ -1,4 +1,4 @@
-(ns little-clojurer.cons_the_magnificient)
+(ns little-clojurer.cons-the-magnificient)
 
 ;; This chapter is about `cons` but in Clojure it makes sense to use
 ;; `conj` which is a common abstraction for adding items to all kinds
